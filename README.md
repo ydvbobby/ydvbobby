@@ -6,7 +6,7 @@
 
 *2nd year CS student · Self-taught ML engineer · shipping real stuff*
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ydv_bobb62758?style=flat&logo=twitter&color=1DA1F2&logoColor=white)](https://twitter.com/ydv_bobb62758)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yadav_bobb62758?style=flat&logo=twitter&color=1DA1F2&logoColor=white)](https://twitter.com/yadav_bobb62758)
 
 </div>
 
@@ -117,7 +117,7 @@ That's the engineer I'm building myself into.
 I'm actively looking for internships, mentorship, and interesting problems to work on.  
 If you're building something in ML prediction systems or agentic AI — let's talk.
 
-**Twitter/X:** [@yourusername](https://twitter.com/ydv_bobb62758)  
+**Twitter/X:** [@yadav_bobb62758](https://twitter.com/yadav_bobb62758)  
 **Email:** bobbyyadav1950@gmail.com
 
 ---
