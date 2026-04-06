@@ -1,19 +1,18 @@
 <div align="center">
 
-# hey, i'm Bobby 👋
+# Hey, I'm Bobby 👋
 
 **Building ML systems that predict, decide, and act.**
 
 *2nd year CS student · Self-taught ML engineer · 8 months in, shipping real stuff*
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=flat&logo=twitter&color=1DA1F2&logoColor=white)](https://twitter.com/yourusername)
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ydv_bobb62758?style=flat&logo=twitter&color=1DA1F2&logoColor=white)](https://twitter.com/ydv_bobb62758)
 
 </div>
 
 ---
 
-## what i'm building
+## What I'm building
 
 Most ML projects stop at the model. I'm interested in the full system:
 
@@ -27,7 +26,7 @@ Right now that means **customer churn prediction + autonomous intervention syste
 
 ---
 
-## shipped
+## Shipped
 
 ### 🎯 YouTube Comments Sentiment Analyzer
 > Chrome extension · deployed in production
@@ -52,7 +51,7 @@ Production-style chatbot architecture:
 
 ---
 
-## currently learning
+## Currently Learning
 
 ```python
 skills_in_progress = [
@@ -81,7 +80,7 @@ skills_in_progress = [
 
 ---
 
-## reading list
+## Reading List
 
 One paper per week. Currently on:
 
@@ -93,10 +92,9 @@ One paper per week. Currently on:
 
 ---
 
-## numbers
+## Numbers
 
 ```
-⏱  8 months since first line of code
 🚀  2 projects shipped
 📄  building toward 12 papers read in 6 months
 📬  open to internships, collaborations, and cold emails
@@ -104,7 +102,7 @@ One paper per week. Currently on:
 
 ---
 
-## what i believe
+## What I Believe
 
 AI engineers in the next 5 years won't just build LLM wrappers.  
 The demand will be for engineers who understand **business logic as deeply as model logic** —  
@@ -114,13 +112,13 @@ That's the engineer I'm building myself into.
 
 ---
 
-## get in touch
+## Get In Touch
 
 I'm actively looking for internships, mentorship, and interesting problems to work on.  
 If you're building something in ML prediction systems or agentic AI — let's talk.
 
-**Twitter/X:** [@yourusername](https://twitter.com/yourusername)  
-**Email:** youremail@gmail.com
+**Twitter/X:** [@yourusername](https://twitter.com/ydv_bobb62758)  
+**Email:** bobbyyadav1950@gmail.com
 
 ---
 
