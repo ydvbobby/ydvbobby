@@ -4,7 +4,7 @@
 
 **Building ML systems that predict, decide, and act.**
 
-*2nd year CS student · Self-taught ML engineer · 8 months in, shipping real stuff*
+*2nd year CS student · Self-taught ML engineer · shipping real stuff*
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ydv_bobb62758?style=flat&logo=twitter&color=1DA1F2&logoColor=white)](https://twitter.com/ydv_bobb62758)
 
